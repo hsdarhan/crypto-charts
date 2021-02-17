@@ -40,13 +40,13 @@ function App() {
         return 0;
       });
 
-      
       setcurrencies(filtered);
 
       first.current = true;
     };
 
     apiCall();
+    
   }, []);
 
   useEffect(() => {
