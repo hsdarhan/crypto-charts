@@ -1,6 +1,14 @@
+# CryptoCharts
+Simple React App for visualizing crypocurrency trends. Data is fetched from the Coinbase API. Graphs
+are rendered with Chart JS.
+
+Sample:
+
+
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
