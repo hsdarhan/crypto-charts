@@ -4,7 +4,7 @@ are rendered with Chart JS.
 
 Sample:
 
-
+<img src="public/sample.PNG" >
 
 
 # Getting Started with Create React App
